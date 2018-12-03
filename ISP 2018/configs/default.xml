@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="Software"/>
+    <feature automatic="selected" name="Fahrzeuganalyse"/>
+    <feature manual="selected" name="Scheibenwischwasser"/>
+    <feature automatic="selected" name="autonomesFahren"/>
+    <feature automatic="selected" name="Umgebungsanalyse"/>
+    <feature automatic="selected" name="Geschwindigkeitsregulierung"/>
+    <feature automatic="selected" name="Lenkung"/>
+    <feature automatic="selected" name="Routenplanung"/>
+    <feature automatic="selected" name="onboardComputer"/>
+    <feature manual="selected" name="Sprachsteuerung"/>
+    <feature automatic="unselected" name="manuelleSteuerung"/>
+</configuration>
