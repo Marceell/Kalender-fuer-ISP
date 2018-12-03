@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ISP 2018</name>
+	<name>Kalender</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,7 +14,7 @@
 				</dictionary>
 				<dictionary>
 					<key>composer</key>
-					<value>de.ovgu.featureide.composer.ahead</value>
+					<value>de.ovgu.featureide.core.composer.runtime</value>
 				</dictionary>
 				<dictionary>
 					<key>equations</key>
@@ -22,7 +22,7 @@
 				</dictionary>
 				<dictionary>
 					<key>source</key>
-					<value>features</value>
+					<value>src</value>
 				</dictionary>
 			</arguments>
 		</buildCommand>
