@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="Kalender"/>
+    <feature automatic="selected" name="Base"/>
+    <feature automatic="selected" name="Design"/>
+    <feature manual="selected" name="Vorlage"/>
+    <feature manual="selected" name="Termine"/>
+    <feature automatic="selected" name="Anlegen"/>
+    <feature automatic="selected" name="Löschen"/>
+    <feature manual="selected" name="Wetter"/>
+    <feature automatic="selected" name="OS"/>
+    <feature manual="selected" name="Windows"/>
+    <feature automatic="unselected" name="IOS"/>
+    <feature automatic="unselected" name="Linux"/>
+</configuration>
